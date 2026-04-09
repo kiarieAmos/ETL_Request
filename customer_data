@@ -1,0 +1,72 @@
+[
+  {
+    "customer_id": "KE-1001",
+    "full_name": "Juma Omari",
+    "email": "juma.omari@example.ke",
+    "location": "Mombasa",
+    "signup_date": "2024-01-15"
+  },
+  {
+    "customer_id": "KE-1002",
+    "full_name": "Wanjiku Kamau",
+    "email": "wanjiku.k@outlook.com",
+    "location": "Nairobi",
+    "signup_date": "2024-02-10"
+  },
+  {
+    "customer_id": "KE-1003",
+    "full_name": "Kiprop Cheruiyot",
+    "email": "kip.cherui@gmail.com",
+    "location": "Eldoret",
+    "signup_date": "2024-03-05"
+  },
+  {
+    "customer_id": "KE-1004",
+    "full_name": "Achieng Otieno",
+    "email": "achieng.otieno@example.ke",
+    "location": "Kisumu",
+    "signup_date": "2024-05-22"
+  },
+  {
+    "customer_id": "KE-1005",
+    "full_name": "Mwangi Njoroge",
+    "email": "mwangi.njo@yahoo.com",
+    "location": "Nakuru",
+    "signup_date": "2024-06-30"
+  },
+  {
+    "customer_id": "KE-1006",
+    "full_name": "Fatuma Hassan",
+    "email": "fhassan@example.ke",
+    "location": "Garissa",
+    "signup_date": "2024-08-12"
+  },
+  {
+    "customer_id": "KE-1007",
+    "full_name": "Mutua Musyoka",
+    "email": "m.musyoka@icloud.com",
+    "location": "Machakos",
+    "signup_date": "2024-09-18"
+  },
+  {
+    "customer_id": "KE-1008",
+    "full_name": "Anyango Odhiambo",
+    "email": "anyango.od@example.ke",
+    "location": "Siaya",
+    "signup_date": "2024-11-04"
+  },
+  {
+    "customer_id": "KE-1009",
+    "full_name": "Naliaka Nasimiyu",
+    "email": "naliaka.nas@gmail.com",
+    "location": "Bungoma",
+    "signup_date": "2025-01-20"
+  },
+  {
+    "customer_id": "KE-1010",
+    "full_name": "Gathoni Maina",
+    "email": "gathoni.maina@example.ke",
+    "location": "Nyeri",
+    "signup_date": "2025-02-14"
+  }
+]
